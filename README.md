@@ -10,3 +10,4 @@ This is a keychain of Orpheus. It is a rectangular PCB with rounded edges(radius
 4. 6 220 Resistors
 
 ##Screenshots!
+![Schematic Of Project](schematicsoder.png "Schematic")
