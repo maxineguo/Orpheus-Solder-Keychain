@@ -17,7 +17,7 @@ This is a keychain of Orpheus. It is a rectangular PCB with rounded edges(radius
 Schematic
 
 
-![PCB Of Project](pcbsoder.png "PCB")
+![PCB Of Project](pcbsolder.png "PCB")
 
 PCB
 
@@ -27,7 +27,7 @@ PCB
 3D Preview(front)
 
 
-![3D Preview Of Project(back)](3dbacksoder.png "3D Preview(back)")
+![3D Preview Of Project(back)](3dbacksolder.png "3D Preview(back)")
 
 3D Preview(back)
 
