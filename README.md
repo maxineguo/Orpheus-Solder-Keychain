@@ -13,16 +13,24 @@ This is a keychain of Orpheus. It is a rectangular PCB with rounded edges(radius
 
 ## Screenshots!
 ![Schematic Of Project](schematicsoder.png "Schematic")
+
 Schematic
 
+
 ![PCB Of Project](pcbsoder.png "PCB")
+
 PCB
 
+
 ![3D Preview Of Project(front)](3dfrontsoder.png "3D Preview(front)")
+
 3D Preview(front)
 
+
 ![3D Preview Of Project(back)](3dbacksoder.png "3D Preview(back)")
+
 3D Preview(back)
+
 
 
 ## Slack Username
