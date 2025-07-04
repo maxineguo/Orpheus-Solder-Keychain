@@ -8,26 +8,27 @@ This is a keychain of Orpheus. It is a rectangular PCB with rounded edges(radius
 1. 1 Battery Holder
 2. 2 Buttons
 3. 6 LED's
-4. 6 220 Resistors
+4. 4 220 Resistors
+5. 2 Photo Resistors
 
 
 ## Screenshots!
-![Schematic Of Project](schematicsoder.png "Schematic")
+![Schematic Of Project](solderschematic.png "Schematic")
 
 Schematic
 
 
-![PCB Of Project](pcbsolder.png "PCB")
+![PCB Of Project](solderpcb.png "PCB")
 
 PCB
 
 
-![3D Preview Of Project(front)](3dfrontsoder.png "3D Preview(front)")
+![3D Preview Of Project(front)](solder3dfrontr.png "3D Preview(front)")
 
 3D Preview(front)
 
 
-![3D Preview Of Project(back)](3dbacksolder.png "3D Preview(back)")
+![3D Preview Of Project(back)](solder3dback.png "3D Preview(back)")
 
 3D Preview(back)
 
