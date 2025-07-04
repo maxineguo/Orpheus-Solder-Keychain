@@ -1,7 +1,7 @@
 # Orpheus-Solder-Keychain
 
 ## Description:
-This is a keychain of Orpheus. It is a rectangular PCB with rounded edges(radius 3). Toward the top, there is a silk screen of a waving Orpheus. The eyes are 2 LEDS. These LEDS are connected to one of two buttons on the side of Orpheus. Below Orpheus, there is the text "Hack Club" with four LEDS surrounding it. These LEDS are connected to the second button. All the wiring except one small one is done on the back where the battery is.
+This is a keychain of Orpheus. It is a rectangular PCB with rounded edges(radius 3). Toward the top, there is a silk screen of a waving Orpheus. The eyes are 2 LEDS. These LEDS are connected to one of two buttons on the side of Orpheus. The brightness of the LED's is controlled by two photo resistors on the back. Below Orpheus, there is the text "Hack Club" with four LEDS surrounding it. These LEDS are connected to the second button. All the wiring except one small one is done on the back where the battery is.
 
 
 ## Bill of Materials
