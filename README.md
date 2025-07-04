@@ -23,7 +23,7 @@ Schematic
 PCB
 
 
-![3D Preview Of Project(front)](solder3dfrontr.png "3D Preview(front)")
+![3D Preview Of Project(front)](solder3dfront.png "3D Preview(front)")
 
 3D Preview(front)
 
